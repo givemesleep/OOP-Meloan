@@ -1,6 +1,6 @@
 <?php 
 
-//Issets
+//Conditions on Submitting Request
 
 //Require (Model and Controller)
 require_once '../Model/dbh.bd.php'; //Initiate the Database
